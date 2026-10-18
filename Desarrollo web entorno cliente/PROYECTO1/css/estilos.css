@@ -60,3 +60,7 @@ button {
 .destacado {
     color: #2563eb;
 }
+
+.error{
+    color: red;
+}
