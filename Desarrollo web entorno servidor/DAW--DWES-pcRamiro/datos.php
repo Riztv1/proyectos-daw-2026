@@ -533,6 +533,14 @@ $productos = [
         "categoria" => "Monitores",
         "precio" => 19090,
         "stock" => 0
+    ],
+
+    [
+        "id" => 4,
+        "nombre" => "Tarjeta de sonido arturia minifuse 1",
+        "categoria" => "audio",
+        "precio" => 5990,
+        "stock" => 10,
     ]
 
 ];

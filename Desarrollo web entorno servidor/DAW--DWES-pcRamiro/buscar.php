@@ -12,8 +12,6 @@
              $resultados = buscarProductos($productos, $busqueda);
         }
 
-      
-
 ?>
 
 
